@@ -1,0 +1,10 @@
+node_modules
+.env
+artifacts
+typechain
+build
+coverage
+cache
+contract-info.json
+contract-address.txt
+```
